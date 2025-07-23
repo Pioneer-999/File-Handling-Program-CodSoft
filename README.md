@@ -18,7 +18,7 @@
 
 # Task 1 - File Handling Program in C
 
-## 🔧 Task Objective
+## Task Objective
 
 Create a C program that demonstrates *basic file handling operations*:
 - Creating a file
@@ -28,7 +28,7 @@ Create a C program that demonstrates *basic file handling operations*:
 
 ---
 
-## 💡 What the Program Does
+## What the Program Does
 
 This C program provides a *menu-based interface* allowing the user to:
 1. *Create* a new file or clear the contents if it already exists.
@@ -40,7 +40,7 @@ The user inputs the *file name* and then selects operations by choosing from the
 
 ---
 
-## 🛠️ How the Program Works
+## How the Program Works
 
 - *File Creation* uses `"w"` mode to create or reset a file.
 - *Writing* also uses `"w"` mode to overwrite any existing content.
